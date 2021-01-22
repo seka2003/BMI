@@ -1,9 +1,6 @@
 #BMI
 
 kg=int(input('Enter Your mass : '))
-while not kg:
-    kg=int(input('Enter Your mass : '))
-
 cm=int(input('Enter your Tall : '))
 
 
